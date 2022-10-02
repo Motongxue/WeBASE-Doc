@@ -7610,7 +7610,7 @@ HTTP GET
 **2）数据格式**
 
 ```
-http://localhost:5002/WeBASE-Front/tool/utf8ToHexString??input=123&type=1
+http://localhost:5002/WeBASE-Front/tool/utf8ToHexString?input=123&type=1
 ```
 
 
